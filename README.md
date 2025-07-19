@@ -58,7 +58,6 @@ Visualizations include:
 ## 🚀 Future Directions
 
 - Job goal recommendation powered by Agentic AI  
-- Cross-domain comparison (e.g. by industry, company size, maturity)  
 - Integration into candidate-facing career mapping tools  
 - Dynamic labeling of emerging roles via continual learning
 

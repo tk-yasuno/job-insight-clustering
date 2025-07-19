@@ -18,12 +18,14 @@ This Minimum Viable Product(MVP) explores a scalable method to identify latent c
 ## 📁 Repository Structure
 
 ```
-├── input_pdfs/               # Raw job PDFs collected via keyword search
+├── input_pdfs/               # Job posting PDFs collected via keyword search (collect one-self current web opened information)
 ├── output_jsons/             # Structured JSON files per job posting
-├── embedding_pipeline.ipynb     # Natural text generation & embedding extraction
-├── clustering_pipeline.ipynb    # Dimensionality reduction & cluster labeling
-├── tsne_visualizer.ipynb        # 2D projection of job embedding space
+├── embeddingtxt_clusteringkm_tsnev1.ipynb     # Natural text generation & embedding extraction, Dimensionality reduction & cluster labeling
+├── cluster_visualizer_positionchartv1.ipynb        # pie chart & 2D projection of job embedding space
 ├── clustering_results.csv    # Final summary table of 161 samples
+├── tsne_visualization_data.csv    # 2D scores via dimensionality reduction
+├── ai_job_market_distribution.png    # Pie chart : Prompt engineer position insight 
+├── cluster_tsne_plot.png    # t-SNE plot : clustered positions on job embedding space
 └── README.md                 # Project overview and instructions
 ```
 

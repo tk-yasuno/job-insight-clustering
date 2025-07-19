@@ -65,9 +65,9 @@ Visualizations include:
 
 ## 📬 Author
 
-Crafted by Takato – AI/ML Engineer & Strategic Technologist  
-Focused on long-term impact at the intersection of agentic systems and societal value.
-LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7352022495954169857/
+- Crafted by Takato – AI/ML Engineer & Strategic Technologist  
+- Focused on long-term impact at the intersection of agentic systems and societal value.
+- LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7352022495954169857/
 
 ---
 

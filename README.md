@@ -1,4 +1,3 @@
-# job-insight-clustering
 # 📌 Job Insight Clustering for Proactive Prompt Engineering Goal
 
 A prototype pipeline for generating structured job insights and clustering career trajectories, designed to support agentic AI-based **Proactive Job Goal Creation**. This repository includes extraction scripts, embedding workflows, and clustering logic, enabling insight generation from real-world Japanese job postings (PDF format).
@@ -66,6 +65,7 @@ Visualizations include:
 
 Crafted by Takato – AI/ML Engineer & Strategic Technologist  
 Focused on long-term impact at the intersection of agentic systems and societal value.
+LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7352022495954169857/
 
 ---
 

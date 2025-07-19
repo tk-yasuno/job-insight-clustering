@@ -33,7 +33,8 @@ This Minimum Viable Product(MVP) explores a scalable method to identify latent c
 
 ## ⚙️ Key Technologies
 
-- `pdfplumber`, `pandas`: For data extraction & manipulation  
+- `pdfplumber`, `pandas`: For data extraction & manipulation
+- `gpt-4o-mini-2024-07-18`: Summarize job posting text into position, industory, job description, size of workforce, and established year
 - `sentence-transformers`: Multilingual semantic embedding  
 - `scikit-learn`: Clustering algorithms (KMeans, t-SNE)  
 - `matplotlib`: Role distribution & embedding space visualization
